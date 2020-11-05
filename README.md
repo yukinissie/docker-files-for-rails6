@@ -8,6 +8,8 @@
 ## postgresql用
 以下のファイルの中身を追記
 - Gemfile
+
+
 以下のファイルを既存のものと適切に書き換え
 - config/database.yml
   
